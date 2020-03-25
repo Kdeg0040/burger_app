@@ -77,7 +77,7 @@ class BurgerBuilder extends Component {
   }
 
   purchaseContinueHandler = () => {
-    alert('You continue!');
+    alert('Sorry, no more virtual burgers available \n\n¯\\_(ツ)_/¯');
   }
 
   render () {
